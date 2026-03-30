@@ -13,6 +13,11 @@ Analisar padrões de fraude em transações financeiras utilizando SQL e Power B
 ---
 
 ## 📊 Principais análises
+- Volume total de transações
+- Valor total movimentado
+- Quantidade de fraudes
+- Valor total de fraudes
+- Percentual de fraudes
 
 ---
 
